@@ -1,5 +1,4 @@
-# <a href="https://digitalkoine.github.io/massacres_people_wwii/">Atlas Nazis and Fascist Repression (Victims map)</a>
-# Martyr Villages of WWII – Italy (Leaflet Interactive Map)
+# <a href="https://digitalkoine.github.io/massacre_villages_wwii/">Martyr Villages of WWII – Italy (Leaflet Interactive Map)</a>
 
 This project visualizes the martyr villages of World War II in Italy using [Leaflet.js](https://leafletjs.com/). Each site is marked with a proportional circle scaled by the number of civilian victims and categorized by severity. Clicking on the central point reveals detailed information, including historical images when available.
 
